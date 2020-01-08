@@ -1,12 +1,9 @@
-{
-    "id": 0,
-    "name": "Kevin Lewis",
-    "email": "Principal@gmail.com",
-    "age": 23
-  },
-   {
-    "id": 1,
-    "name": "Love",
-    "email": "love@gmail.com",
-    "age": 24
+  {
+  
+  "profile": {
+    "id": 1, 
+    "name": "typicode",
+      "email": "love@gmail.com",
+      "age": 23
   }
+}
